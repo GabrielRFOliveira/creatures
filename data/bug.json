@@ -2,7 +2,7 @@
     "name": "Bug",
     "image": "bug.gif",
     "level": 1,
-    "health": 10,
+    "health": 20,
     "attack": 2,
     "armor": 0,
     "magic_resistance": 0,
